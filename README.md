@@ -1,4 +1,4 @@
-# DT173G, Webbutveckling III
+# DT173G, Moment 1
 Detta repo skapades som en del i min utbildning vid Mittuniversitetet, i kursen Webbutveckling III. Året var 2021. Momentet handlar om att lära sig om versionshantering. Hoppas att det inte är så viktigt exakt *vad* som skrivs i detta dokument :joy:
 
 ## Uppgiften
