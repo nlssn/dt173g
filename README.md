@@ -1,5 +1,5 @@
 # DT173G, Webbutveckling III
-Detta repo skapades som en del i min utbildning vid Mittuniversitetet, i kursen Webbutveckling III. Året var 2020. Momentet handlar om att lära sig om versionshantering. Hoppas att det inte är så viktigt exakt *vad* som skrivs i detta dokument :joy:
+Detta repo skapades som en del i min utbildning vid Mittuniversitetet, i kursen Webbutveckling III. Året var 2021. Momentet handlar om att lära sig om versionshantering. Hoppas att det inte är så viktigt exakt *vad* som skrivs i detta dokument :joy:
 
 ## Uppgiften
 Uppgiften som jag har fått är att skapa ett repo här på [Github](https://github.com), skapa en README-fil (som du läser just nu) och fylla den med innehåll. Nedan följer ett gäng exempel på vad som är möjligt att göra med märkspråket Markdown.
